@@ -1,5 +1,21 @@
 ### Crackle Circuits
 
+
+
+| Project Titel:|  Crackle Circuit | 
+| :--- | :--- |
+|`Status` | Finished | 
+|`Start Date` | March 2021| 
+|`Project Completion` | April 2021 | 
+|`Project Duration`| |
+
+short description:
+
+Substituting the obsolete LM709 with discrete components, specifically transistors and resistors, ...
+
+
+
+
 In addition to sensors or other control elements like potentiometers, force-sensing resistors, or similar components, touching directly dedicated connection points in a circuit will also affect its behavior. The human body can add various parameters like resistance or capacitance. The conductivity of the human skin introduced into a circuit varies greatly just like the capacitance of the human body. Moisture (sweat), pressure or even the surroundings define the actual electrical values and make it difficult to predict their effect on a circuit. In this context, the crackle box should be mentioned as a remarkable example.
 
 
