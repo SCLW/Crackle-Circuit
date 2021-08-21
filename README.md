@@ -8,7 +8,7 @@
 |`Start Date` | February 2021| 
 |`Project Completion` | March 2021 | 
 |`Project Duration`| |
-|`License`| |
+|`License`| CC-BY-4.0, MIT License |
 
 
 
