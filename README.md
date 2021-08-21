@@ -8,6 +8,7 @@
 |`Start Date` | February 2021| 
 |`Project Completion` | March 2021 | 
 |`Project Duration`| |
+|`License`| |
 
 short description:
 
