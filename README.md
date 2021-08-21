@@ -4,9 +4,9 @@
 
 | Project Titel:|  Crackle Circuit | 
 | :--- | :--- |
-|`Status` | Finished | 
-|`Start Date` | March 2021| 
-|`Project Completion` | April 2021 | 
+|`Status` | Closed | 
+|`Start Date` | February 2021| 
+|`Project Completion` | March 2021 | 
 |`Project Duration`| |
 
 short description:
