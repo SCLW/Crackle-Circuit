@@ -1,4 +1,4 @@
-## Bill of Materials "Cracle Circuit"
+## Bill of Materials "Crackle Circuit"
 
 Item #|Designator| Qty.|Value|Description |Package|Mouser No|Mfr. No
 | --- | --- | --- |--- | --- | --- |--- | --- |
