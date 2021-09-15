@@ -10,7 +10,7 @@
 |`Project Duration`| |
 |`License`| CC-BY-4.0, MIT License |
 
-
+---
 
 <!--
 short description:
