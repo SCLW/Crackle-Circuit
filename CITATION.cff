@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Crackle Circuit"
+message: "If you use or adapt this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Schwarz
+    given-names: Lorenz
+repository-code: "https://github.com/SCLW/Crackle-Circuit"
+url: "https://github.com/SCLW/Crackle-Circuit"
+abstract: >
+  Discrete-transistor recreation of Michel Waisvisz's Cracklebox,
+  replacing the obsolete LM709 op-amp with an equivalent built from
+  individual transistors and resistors. Includes EAGLE schematic and
+  board files, Gerber output, and a full bill of materials.
+keywords:
+  - circuit-bending
+  - synthesizer
+  - cracklebox
+  - waisvisz
+  - lm709
+  - op-amp
+  - discrete-electronics
+  - open-hardware
+  - experimental-music
+  - eagle-pcb
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+version: "1.0"
+date-released: "2021-03-21"

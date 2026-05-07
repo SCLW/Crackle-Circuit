@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# EAGLE backups
+*.b#?
+*.s#?
+*.l#?
+
+# Third-party PDFs (see assets/documents/sources.md)
+assets/documents/*.pdf
